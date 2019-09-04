@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LocatQR</string>
+    <string name="Hello_txt">Hello, User \n Scan the nearest QR CODE to begin</string>
+</resources>
